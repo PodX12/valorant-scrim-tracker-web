@@ -1,0 +1,300 @@
+////////////////  VARIABLES  ///////////////
+$background-color: #0a0a0a;
+$background-color-2: #1a1a1a;
+$text-color: #fafafa;
+$border-color: #333333;
+$light-grey: #aaaaaa;
+$border-radius: 6px;
+$light-red: rgb(199, 130, 130);
+$red: rgb(248, 80, 80);
+$light-green: rgb(172, 255, 172);
+$green: rgb(48, 240, 48);
+
+$valorant-agents: astra, breach, brimstone, chamber, clove, cypher, deadlock, fade, gekko, harbor, iso, jett, kayo, killjoy, neon, omen, pheonix, raze, reyna, sage, skye, sova, tejo, viper, vyse, waylay, yoru;
+
+body {
+  min-height: 100vh;
+  color: $text-color;
+  background: $background-color;
+  transition:
+    color 0.5s,
+    background-color 0.5s;
+  line-height: 1.6;
+  font-family:
+    Inter,
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    'Fira Sans',
+    'Droid Sans',
+    'Helvetica Neue',
+    sans-serif;
+  font-size: 15px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  margin: 0;
+}
+
+.sidebar-container {
+  position: fixed;
+  width: 250px;
+  height: 100%;
+  border-right: 1px solid $border-color;
+  background-color: $background-color;
+  padding: 10px;
+
+  .title {
+    margin: 0;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    a {
+      display: block;
+      padding: 5px 10px;
+      margin-bottom: 10px;
+      border-radius: $border-radius;
+      text-decoration: none;
+      color: inherit;
+
+      &.router-link-active,
+      &:hover {
+        background-color: $text-color;
+        color: $background-color;
+        cursor: pointer;
+      }
+    }
+  }
+}
+
+.main-content {
+  margin-left: 270px;
+  padding: 0 20px;
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+}
+
+.v-center {
+  align-items: center;
+}
+
+.pad-top-20 {
+  padding-top: 20px;
+}
+
+@for $i from 1 through 12 {
+  .flex-#{$i} {
+    flex-grow: #{$i};
+  }
+}
+
+.panel {
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  padding: 15px;
+
+  .panel-title {
+    font-weight: bold;
+  }
+
+  .panel-body {
+    .plhd {
+      height: 150px;
+      background-color: #333333;
+      border-radius: 6px;
+    }
+  }
+
+  .panel-item {
+    margin-top: 20px;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    padding: 10px 20px;
+
+    .name {
+      font-weight: bold;
+      margin-right: 20px;
+    }
+
+    .score {
+      background-color: $text-color;
+      color: $background-color;
+      padding: 0 5px;
+      border-radius: $border-radius;
+      margin-right: 20px;
+
+      &.light-red {
+        background-color: $light-red;
+      }
+
+      &.red {
+        background-color: $red;
+      }
+
+      &.light-green {
+        background-color: $light-green;
+      }
+
+      &.green {
+        background-color: $green;
+      }
+    }
+
+    .date {
+      margin-right: 20px;
+      color: $light-grey;
+    }
+
+    .time {
+      margin-right: 20px;
+      color: $light-grey;
+    }
+
+    .team-comp {
+      label {
+        color: $light-grey;
+      }
+    }
+
+    &.clickable {
+      &:hover {
+        cursor: pointer;
+        background-color: $background-color-2;
+      }
+    }
+  }
+}
+
+.agent {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: $light-grey;
+  margin-right: 3px;
+  background-size: 100%;
+
+  @each $agent in $valorant-agents {
+    &.#{$agent} {
+      background-image: url("./images/agents/#{$agent}.webp");
+    }
+  }
+}
+
+button {
+  background-color: $background-color-2;
+  border: 1px solid $border-color;
+  color: $text-color;
+  padding: 7px 15px;
+  border-radius: $border-radius;
+  font-weight: bold;
+}
+
+.match-header {
+  .name {
+    font-weight: bold;
+    margin-right: 20px;
+  }
+
+  .score {
+    background-color: $text-color;
+    color: $background-color;
+    padding: 0 5px;
+    border-radius: $border-radius;
+    margin-right: 20px;
+
+    &.light-red {
+      background-color: $light-red;
+    }
+
+    &.red {
+      background-color: $red;
+    }
+
+    &.light-green {
+      background-color: $light-green;
+    }
+
+    &.green {
+      background-color: $green;
+    }
+  }
+
+  .date {
+    margin-right: 20px;
+    color: $light-grey;
+  }
+
+  .time {
+    margin-right: 20px;
+    color: $light-grey;
+  }
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: sans-serif;
+
+  th {
+    font-weight: bold;
+  }
+
+  th,
+  td {
+    text-align: left;
+    border-bottom: 1px solid $border-color;
+  }
+
+  tbody {
+    tr:hover {
+      background-color: $background-color-2;
+    }
+  }
+
+  tr:last-child {
+    td {
+      border-bottom: none;
+    }
+  }
+  tr{
+    &.enemy-team{
+      background-color: rgba(255, 0, 0, 0.1);
+    }
+  }
+}
+
+.scoreboard {
+  .agent {
+    border-radius: 0;
+    background-color: transparent;
+    margin-top: 5px;
+    width: 25px;
+    height: 25px;
+  }
+}
+
+.match {
+  .panel-title {
+    font-weight: normal;
+    margin-bottom: 20px;
+  }
+}
+
+.footer {
+  height: 400px;
+}
