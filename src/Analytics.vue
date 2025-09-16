@@ -13,7 +13,7 @@ export default {
   },
   methods: {
     fetchData() {
-      axios.get('/parser_output.json')
+      axios.get('https://podx12.github.io/valorant-scrim-tracker-web/parser_output.json')
         .then(response => {
           this.matches = response.data;
 

@@ -16,7 +16,7 @@ export default {
   },
   methods: {
     fetchData() {
-      axios.get('/parser_output.json')
+      axios.get('https://podx12.github.io/valorant-scrim-tracker-web/parser_output.json')
         .then(response => {
           this.match = response.data.find(m => m.MatchId == this.$route.params.id);
           this.players = this.match.Players.filter(p => p.Team == this.match.MainTeam);

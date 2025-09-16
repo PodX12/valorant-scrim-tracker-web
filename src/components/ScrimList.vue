@@ -15,7 +15,7 @@ export default {
   },
   methods: {
     fetchData() {
-      axios.get('/parser_output.json')
+      axios.get('https://podx12.github.io/valorant-scrim-tracker-web/parser_output.json')
         .then(response => {
           this.matches = response.data;
         })
@@ -42,15 +42,13 @@ export default {
         this.selectedPlayers = this.selectedMatch.Players;
       }
       var count = 0;
-      this.selectedPlayers.forEach(p =>
-      {
+      this.selectedPlayers.forEach(p => {
         count = count + p.FirstKills;
       });
       console.log(`FIRST KILLS: ${count}`)
     },
-    getKASTPercent(kast)
-    {
-      return `${Math.round(kast/(24/100))}%`;
+    getKASTPercent(kast) {
+      return `${Math.round(kast / (24 / 100))}%`;
     }
   }
 }
