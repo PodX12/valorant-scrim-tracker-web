@@ -8,7 +8,8 @@ export default {
       players: null,
       ultRounds: [],
       showingEnemyTeam: false,
-      roundConversions: []
+      roundConversions: [],
+      roundByRound: []
     };
   },
   mounted() {
@@ -20,36 +21,58 @@ export default {
         .then(response => {
           this.match = response.data.find(m => m.MatchId == this.$route.params.id);
           this.players = this.match.Players.filter(p => p.Team == this.match.MainTeam);
+          this.players.sort((a, b) => a.Kills < b.Kills);
 
           //ult rounds
           //round number, side, ultimates available, enemy ultimates available
           this.ultRounds = [];
-          var skipRounds = [0, 1, 12, 13]
 
           this.match.Rounds.forEach((round, index) => {
-            if (skipRounds.indexOf(index) < 0) {
-              var newUltRound = {
-                roundNumber: index + 1,
-                side: index < 12
-                  ? this.match.MainTeam == 1 ? "DEF" : "ATK"
-                  : this.match.MainTeam == 1 ? "ATK" : "DEF",
-                ourUlts: [],
-                enemyUlts: []
-              };
+            var teamSide = index < 12
+              ? this.match.MainTeam == 1 ? "DEF" : "ATK"
+              : this.match.MainTeam == 1 ? "ATK" : "DEF";
+            var enemyTeamSide = index < 12
+              ? this.match.MainTeam != 1 ? "DEF" : "ATK"
+              : this.match.MainTeam != 1 ? "ATK" : "DEF";
 
-              round.Players.forEach(p => {
-                if (p.UltMax == p.UltPoints) {
-                  if (p.Team == this.match.MainTeam) {
-                    newUltRound.ourUlts.push(p.Agent)
-                  } else {
-                    newUltRound.enemyUlts.push(p.Agent)
-                  }
+
+            //BUILD ROUND WIN CONDITION
+            this.roundByRound.push({
+              roundNumber: index + 1,
+              side: teamSide,
+              winningTeam: round.WinningTeam,
+              ourWin: round.WinningTeam == this.match.MainTeam,
+              ourWinTitle: round.WinningTeam == this.match.MainTeam ? teamSide : "",
+              enemyWin: round.WinningTeam != this.match.MainTeam,
+              enemyWinTitle: round.WinningTeam != this.match.MainTeam ? enemyTeamSide : ""
+            });
+
+            //BUILD ULT ROUNDS
+            var newUltRound = {
+              roundNumber: index + 1,
+              side: teamSide,
+              ourUlts: [],
+              ourWin: round.WinningTeam == this.match.MainTeam,
+              ourWinTitle: round.WinningTeam == this.match.MainTeam ? "Win" : "Loss",
+              enemyUlts: [],
+              enemyWin: round.WinningTeam != this.match.MainTeam,
+              enemyWinTitle: round.WinningTeam != this.match.MainTeam ? "Win" : "Loss"
+            };
+
+            round.Players.forEach(p => {
+              if (p.UltMax == p.UltPoints) {
+                if (p.Team == this.match.MainTeam) {
+                  newUltRound.ourUlts.push(p.Agent)
+                } else {
+                  newUltRound.enemyUlts.push(p.Agent)
                 }
-              });
-              this.ultRounds.push(newUltRound);
-            }
+              }
+            });
+            this.ultRounds.push(newUltRound);
           });
 
+
+          //TODO: ROUND CONVERSION RATE
           for (let allyTeam = 5; allyTeam >= 1; allyTeam--) {
             for (let enemyTeam = 5; enemyTeam >= 1; enemyTeam--) {
               this.roundConversions.push(
@@ -59,8 +82,6 @@ export default {
               );
             }
           }
-
-
         })
         .catch(error => {
           console.error('There was an error fetching the data:', error);
@@ -86,9 +107,11 @@ export default {
     toggleEnemyTeam() {
       if (!this.showingEnemyTeam) {
         this.players = this.match.Players;
+        this.players.sort((a, b) => a.Kills < b.Kills);
       }
       else {
         this.players = this.match.Players.filter(p => p.Team == this.match.MainTeam);
+        this.players.sort((a, b) => a.Kills < b.Kills);
       }
       this.showingEnemyTeam = !this.showingEnemyTeam;
     },
@@ -174,41 +197,22 @@ export default {
     <div class="container pad-top-20">
       <div class="flex-1 panel">
         <div class="panel-title">
-          Site Statistics
-        </div>
-        <div class="panel-body">
-          <div class="plhd"></div>
-        </div>
-      </div>
-      <div class="flex-1 panel">
-        <div class="panel-title">
-          Player Economy
-        </div>
-        <div class="panel-body">
-          <div class="plhd"></div>
-        </div>
-      </div>
-    </div>
-
-    <div class="container pad-top-20">
-      <div class="flex-1 panel">
-        <div class="panel-title">
-          Ultimate Availability by Round
+          Round by Round
         </div>
         <div class="panel-body">
           <table class="scoreboard">
             <thead>
               <tr>
                 <th width="100px">Round</th>
-                <th width="100px">Side</th>
-                <th>Our Team</th>
-                <th>Enemy Team</th>
+                <th width="100px">Our Side</th>
+                <th>Our Ults</th>
+                <th>Enemy Ults</th>
               </tr>
             </thead>
             <tbody>
               <tr v-for="round in ultRounds">
                 <td>{{ round.roundNumber }}</td>
-                <td>{{ round.side }}</td>
+                <td :class="[round.ourWin ? 'win' : 'loss']">{{ round.side }}</td>
                 <td>
                   <span class="agent" v-if="round.ourUlts.length <= 0"></span>
                   <span v-for="agent in round.ourUlts" :key="agent" :class="[agent.toLowerCase(), 'agent']"></span>

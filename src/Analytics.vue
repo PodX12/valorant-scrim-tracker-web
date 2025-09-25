@@ -19,6 +19,7 @@ export default {
 
           //BUILD PLAYER/MATCH STATS
           this.players = [];
+          var pistolWins = 0;
           this.matches.forEach(match => {
             //MATCH STATS
             var existingMatchStat = this.matchStats.find(m => m.Map == match.Map);
@@ -60,7 +61,7 @@ export default {
                 existingPlayer.KASTTotalRounds += 24;
               }
               else {
-                var playersToHide = ["PodX12", "炎死炎"];
+                var playersToHide = ["PodX12", "炎死炎", "foreign"];
                 if (playersToHide.indexOf(player.Name) < 0) {
                   this.players.push(
                     {
@@ -83,7 +84,14 @@ export default {
             });
 
             this.players.sort((a, b) => a.Kills < b.Kills);
+
+            if (match.Rounds[0].WinningTeam == match.MainTeam)
+              pistolWins++;
+            if (match.Rounds[11].WinningTeam == match.MainTeam)
+              pistolWins++;
           });
+
+          console.log(`Pistol Wins: ${pistolWins}/${this.matches.length * 2}`);
         })
         .catch(error => {
           console.error('There was an error fetching the data:', error);
@@ -100,6 +108,9 @@ export default {
     },
     getWinPercent(match) {
       return `${Math.round(match.Wins / ((match.Wins + match.Losses) / 100))}%`;
+    },
+    getTradedPercent(partial, whole) {
+      return `${Math.round(partial / ((whole) / 100))}%`;
     }
   }
 }
@@ -167,8 +178,8 @@ export default {
             <td>{{ getFKPercent(player) }}</td>
             <td>{{ player.TrueFirstKills }}</td>
             <td>{{ player.TrueFirstDeaths }}</td>
-            <td>{{ player.TradedKills }}</td>
-            <td>{{ player.TradedDeaths }}</td>
+            <td>{{ player.TradedKills }} ({{ getTradedPercent(player.TradedKills, player.Kills) }})</td>
+            <td>{{ player.TradedDeaths }} ({{ getTradedPercent(player.TradedDeaths, player.Deaths) }})</td>
             <td>{{ getKASTPercent(player) }}</td>
           </tr>
         </tbody>

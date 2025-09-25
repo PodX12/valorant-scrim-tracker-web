@@ -271,8 +271,9 @@ table {
       border-bottom: none;
     }
   }
-  tr{
-    &.enemy-team{
+
+  tr {
+    &.enemy-team {
       background-color: rgba(255, 0, 0, 0.1);
     }
   }
@@ -285,6 +286,14 @@ table {
     margin-top: 5px;
     width: 25px;
     height: 25px;
+  }
+
+  .win {
+    color: $light-green;
+  }
+
+  .loss {
+    color: $light-red;
   }
 }
 
