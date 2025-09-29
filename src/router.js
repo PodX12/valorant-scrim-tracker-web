@@ -3,23 +3,29 @@ import { createMemoryHistory, createRouter } from 'vue-router'
 import Dashboard from './Dashboard.vue'
 import AboutView from './Analytics.vue'
 import Match from './Match.vue'
+import Map from './Map.vue'
 
 const routes = [
   {
-    name: "dashboard",
+    name: 'dashboard',
     path: '/',
     component: Dashboard,
   },
   {
-    name: "analytics",
+    name: 'analytics',
     path: '/analytics',
     component: AboutView,
   },
   {
-    name: "matches",
+    name: 'matches',
     path: '/matches/:id',
     component: Match,
-  }
+  },
+  {
+    name: 'maps',
+    path: '/maps/:map',
+    component: Map,
+  },
 ]
 
 const router = createRouter({

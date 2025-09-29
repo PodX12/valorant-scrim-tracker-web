@@ -3,12 +3,13 @@ $background-color: #0a0a0a;
 $background-color-2: #1a1a1a;
 $text-color: #fafafa;
 $border-color: #333333;
-$light-grey: #aaaaaa;
+$light-grey: #8d8d8d;
 $border-radius: 6px;
 $light-red: rgb(199, 130, 130);
-$red: rgb(248, 80, 80);
+$red: #FB2C36;
 $light-green: rgb(172, 255, 172);
-$green: rgb(48, 240, 48);
+$green: #00C951;
+$white: #FFFFFF;
 
 $valorant-agents: astra, breach, brimstone, chamber, clove, cypher, deadlock, fade, gekko, harbor, iso, jett, kayo, killjoy, neon, omen, pheonix, raze, reyna, sage, skye, sova, tejo, viper, vyse, waylay, yoru;
 
@@ -143,6 +144,7 @@ body {
 
       &.red {
         background-color: $red;
+        color: $white;
       }
 
       &.light-green {
@@ -169,13 +171,13 @@ body {
         color: $light-grey;
       }
     }
+  }
+}
 
-    &.clickable {
-      &:hover {
-        cursor: pointer;
-        background-color: $background-color-2;
-      }
-    }
+.clickable {
+  &:hover {
+    cursor: pointer;
+    background-color: $background-color-2;
   }
 }
 
@@ -223,6 +225,7 @@ button {
 
     &.red {
       background-color: $red;
+      color: $white;
     }
 
     &.light-green {
@@ -306,4 +309,34 @@ table {
 
 .footer {
   height: 400px;
+}
+
+.large-title {
+  font-size: 32px;
+  font-weight: bold;
+
+  &.green {
+    color: $green;
+  }
+}
+
+.sub-title {
+  color: $light-grey;
+}
+
+.dot {
+  height: 8px;
+  width: 8px;
+  background-color: $white;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 3px;
+
+  &.green {
+    background-color: $green;
+  }
+
+  &.red {
+    background-color: $red;
+  }
 }

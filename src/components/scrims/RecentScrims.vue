@@ -4,27 +4,17 @@ import { format } from 'date-fns';
 import ScrimItem from './ScrimItem.vue';
 
 export default {
+  props: {
+    matches: Object
+  },
   components: { ScrimItem },
   data() {
     return {
-      matches: null,
       selectedMatch: null,
       selectedPlayers: null
     };
   },
-  mounted() {
-    this.fetchData();
-  },
   methods: {
-    fetchData() {
-      axios.get('https://podx12.github.io/valorant-scrim-tracker-web/parser_output.json')
-        .then(response => {
-          this.matches = response.data;
-        })
-        .catch(error => {
-          console.error('There was an error fetching the data:', error);
-        });
-    },
     selectMatch(match) {
       this.selectedMatch = match;
       this.selectedMatch.Players.sort((a, b) => {

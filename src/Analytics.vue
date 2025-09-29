@@ -1,11 +1,11 @@
-<script lang="ts">
+<script>
 import axios from 'axios';
 export default {
   data() {
     return {
       matches: [],
       players: [],
-      matchStats: []
+      mapStats: []
     };
   },
   mounted() {
@@ -22,7 +22,7 @@ export default {
           var pistolWins = 0;
           this.matches.forEach(match => {
             //MATCH STATS
-            var existingMatchStat = this.matchStats.find(m => m.Map == match.Map);
+            var existingMatchStat = this.mapStats.find(m => m.Map == match.Map);
             if (existingMatchStat) {
               var roundsWon = match.MainTeam == 0 ? match.Team0Rounds : match.Team1Rounds;
               var roundsLost = match.MainTeam == 0 ? match.Team1Rounds : match.Team0Rounds;
@@ -30,17 +30,70 @@ export default {
               existingMatchStat.Losses += roundsWon < roundsLost ? 1 : 0;
               existingMatchStat.RoundsWon += roundsWon;
               existingMatchStat.RoundsLost += roundsLost;
+
+              var halfTimeRound = match.Rounds[11];
+              var firstPistol = match.Rounds[0];
+              var secondPistol = match.Rounds[12];
+
+              //MainTeam == 1: Defence start
+              if (match.MainTeam == 1) {
+                existingMatchStat.AttackPistolRoundsWon += secondPistol.WinningTeam == match.MainTeam ? 1 : 0;
+                existingMatchStat.AttackPistolRoundsLost += secondPistol.WinningTeam == match.MainTeam ? 0 : 1;
+                existingMatchStat.DefencePistolRoundsWon += firstPistol.WinningTeam == match.MainTeam ? 1 : 0;
+                existingMatchStat.DefencePistolRoundsLost += firstPistol.WinningTeam == match.MainTeam ? 0 : 1;
+                existingMatchStat.DefenceRoundsWon += halfTimeRound.Team1Rounds;
+                existingMatchStat.DefenceRoundsLost += halfTimeRound.Team0Rounds;
+                existingMatchStat.AttackRoundsWon += roundsWon - halfTimeRound.Team1Rounds;
+                existingMatchStat.AttackRoundsLost += roundsLost - halfTimeRound.Team0Rounds;
+              }
+              else {
+                existingMatchStat.AttackPistolRoundsWon += firstPistol.WinningTeam == match.MainTeam ? 1 : 0;
+                existingMatchStat.AttackPistolRoundsLost += firstPistol.WinningTeam == match.MainTeam ? 0 : 1;
+                existingMatchStat.DefencePistolRoundsWon += secondPistol.WinningTeam == match.MainTeam ? 1 : 0;
+                existingMatchStat.DefencePistolRoundsLost += secondPistol.WinningTeam == match.MainTeam ? 0 : 1;
+                existingMatchStat.DefenceRoundsWon += halfTimeRound.Team1Rounds;
+                existingMatchStat.DefenceRoundsLost += halfTimeRound.Team0Rounds;
+                existingMatchStat.AttackRoundsWon += roundsWon - halfTimeRound.Team1Rounds;
+                existingMatchStat.AttackRoundsLost += roundsLost - halfTimeRound.Team0Rounds;
+              }
             }
             else {
               var newMatchStat = {};
               newMatchStat.Map = match.Map;
               var roundsWon = match.MainTeam == 0 ? match.Team0Rounds : match.Team1Rounds;
               var roundsLost = match.MainTeam == 0 ? match.Team1Rounds : match.Team0Rounds;
+
+              var halfTimeRound = match.Rounds[11];
+              var firstPistol = match.Rounds[0];
+              var secondPistol = match.Rounds[12];
+
+              //MainTeam == 1: Defence start
+              if (match.MainTeam == 1) {
+                newMatchStat.AttackPistolRoundsWon = secondPistol.WinningTeam == match.MainTeam ? 1 : 0;
+                newMatchStat.AttackPistolRoundsLost = secondPistol.WinningTeam == match.MainTeam ? 0 : 1;
+                newMatchStat.DefencePistolRoundsWon = firstPistol.WinningTeam == match.MainTeam ? 1 : 0;
+                newMatchStat.DefencePistolRoundsLost = firstPistol.WinningTeam == match.MainTeam ? 0 : 1;
+                newMatchStat.DefenceRoundsWon = halfTimeRound.Team1Rounds;
+                newMatchStat.DefenceRoundsLost = halfTimeRound.Team0Rounds;
+                newMatchStat.AttackRoundsWon = roundsWon - halfTimeRound.Team1Rounds;
+                newMatchStat.AttackRoundsLost = roundsLost - halfTimeRound.Team0Rounds;
+              }
+              else {
+                newMatchStat.AttackPistolRoundsWon = firstPistol.WinningTeam == match.MainTeam ? 1 : 0;
+                newMatchStat.AttackPistolRoundsLost = firstPistol.WinningTeam == match.MainTeam ? 0 : 1;
+                newMatchStat.DefencePistolRoundsWon = secondPistol.WinningTeam == match.MainTeam ? 1 : 0;
+                newMatchStat.DefencePistolRoundsLost = secondPistol.WinningTeam == match.MainTeam ? 0 : 1;
+                newMatchStat.AttackRoundsWon = halfTimeRound.Team0Rounds;
+                newMatchStat.AttackRoundsLost = halfTimeRound.Team1Rounds;
+                newMatchStat.DefenceRoundsWon = roundsWon - halfTimeRound.Team1Rounds;
+                newMatchStat.DefenceRoundsLost = roundsLost - halfTimeRound.Team0Rounds;
+              }
+
               newMatchStat.RoundsWon = roundsWon;
               newMatchStat.RoundsLost = roundsLost;
               newMatchStat.Wins = roundsWon > roundsLost ? 1 : 0;
               newMatchStat.Losses = roundsWon < roundsLost ? 1 : 0;
-              this.matchStats.push(newMatchStat);
+              this.mapStats.push(newMatchStat);
             }
 
             //PLAYER STATS
@@ -111,6 +164,31 @@ export default {
     },
     getTradedPercent(partial, whole) {
       return `${Math.round(partial / ((whole) / 100))}%`;
+    },
+    getAttackRoundWinPercent(map) {
+      return `${Math.round(map.AttackRoundsWon / ((map.AttackRoundsWon + map.AttackRoundsLost) / 100))}%`;
+    },
+    getDefenceRoundWinPercent(map) {
+      return `${Math.round(map.DefenceRoundsWon / ((map.DefenceRoundsWon + map.DefenceRoundsLost) / 100))}%`;
+    },
+    getPistolRoundWinPercent(map, side = "") {
+      var totalPistolRounds = map.AttackPistolRoundsWon + map.AttackPistolRoundsLost + map.DefencePistolRoundsWon + map.DefencePistolRoundsLost;
+      var totalWonRounds = map.AttackPistolRoundsWon + map.DefencePistolRoundsWon;
+
+      if (side == "ATK") {
+        totalPistolRounds = map.AttackPistolRoundsWon + map.AttackPistolRoundsLost;
+        totalWonRounds = map.AttackPistolRoundsWon;
+      }
+
+      if (side == "DEF") {
+        totalPistolRounds = map.DefencePistolRoundsWon + map.DefencePistolRoundsLost;
+        totalWonRounds = map.DefencePistolRoundsWon;
+      }
+      return `${Math.round(totalWonRounds / ((totalPistolRounds) / 100))}%`;
+    },
+    openMap(map) {
+      alert(map);
+      this.$router.push({ name: 'maps', params: { map: map } });
     }
   }
 }
@@ -128,15 +206,23 @@ export default {
         <thead>
           <tr>
             <th width="150px">Map</th>
-            <th>Wins%</th>
-            <th>Round Win%</th>
+            <th>Wins</th>
+            <th>Round WR</th>
+            <th>Attacking</th>
+            <th>Defending</th>
+            <th>Pistol Atk WR</th>
+            <th>Pistol Def WR</th>
           </tr>
         </thead>
         <tbody>
-          <tr v-for="match in matchStats" :key="match.Map">
-            <td>{{ match.Map }}</td>
-            <td>{{ getWinPercent(match) }} ( {{ match.Wins }} / {{ match.Losses }} )</td>
-            <td>{{ getRoundWinPercent(match) }} ( {{ match.RoundsWon }} / {{ match.RoundsLost }} )</td>
+          <tr v-for="map in mapStats" :key="map.Map" v-on:click="openMap(map.Map)" class="clickable">
+            <td>{{ map.Map }}</td>
+            <td>{{ map.Wins }}/{{ map.Losses }} ({{ getWinPercent(map) }})</td>
+            <td>{{ getRoundWinPercent(map) }}</td>
+            <td>{{ getAttackRoundWinPercent(map) }}</td>
+            <td>{{ getDefenceRoundWinPercent(map) }}</td>
+            <td>{{ getPistolRoundWinPercent(map, "ATK") }}</td>
+            <td>{{ getPistolRoundWinPercent(map, "DEF") }}</td>
           </tr>
         </tbody>
       </table>
