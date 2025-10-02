@@ -297,7 +297,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 1,
             "Deaths": 0,
             "Assists": 0,
@@ -410,12 +410,12 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:08:22,375 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Pistol_Luger_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
+              "Line": "2025-10-01 20:08:22,375 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Pistol_Luger_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
               "DateTime": "2025-10-01T20:08:22.375",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Pistol_Luger_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Pistol_Luger_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
             },
-            "Attacker": "chromehearts\uAC70\uC6B8",
+            "Attacker": "chromehearts",
             "Victim": "intentional JYE",
             "WasTraded": false,
             "IsFirstKill": false,
@@ -592,7 +592,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 1,
             "Deaths": 0,
             "Assists": 0,
@@ -887,7 +887,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 2,
             "Deaths": 1,
             "Assists": 0,
@@ -1048,12 +1048,12 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:12:47,727 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_DoubleSniper\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Raze\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
+              "Line": "2025-10-01 20:12:47,727 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_DoubleSniper\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Raze\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
               "DateTime": "2025-10-01T20:12:47.727",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_DoubleSniper\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Raze\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_DoubleSniper\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Raze\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
             },
-            "Attacker": "chromehearts\uAC70\uC6B8",
+            "Attacker": "chromehearts",
             "Victim": "Maxyy",
             "WasTraded": false,
             "IsFirstKill": false,
@@ -1064,13 +1064,13 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:12:53,726 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
+              "Line": "2025-10-01 20:12:53,726 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
               "DateTime": "2025-10-01T20:12:53.726",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
             },
             "Attacker": "Lyuna",
-            "Victim": "chromehearts\uAC70\uC6B8",
+            "Victim": "chromehearts",
             "WasTraded": false,
             "IsFirstKill": false,
             "Assist1": "",
@@ -1182,7 +1182,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 2,
             "Deaths": 2,
             "Assists": 0,
@@ -1279,13 +1279,13 @@
         "RoundKillLogs": [
           {
             "LogLine": {
-              "Line": "2025-10-01 20:14:20,758 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
+              "Line": "2025-10-01 20:14:20,758 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
               "DateTime": "2025-10-01T20:14:20.758",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
             },
             "Attacker": "Lyuna",
-            "Victim": "chromehearts\uAC70\uC6B8",
+            "Victim": "chromehearts",
             "WasTraded": false,
             "IsFirstKill": true,
             "Assist1": "",
@@ -1509,7 +1509,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 2,
             "Deaths": 3,
             "Assists": 0,
@@ -1606,13 +1606,13 @@
         "RoundKillLogs": [
           {
             "LogLine": {
-              "Line": "2025-10-01 20:16:06,785 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Drema\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
+              "Line": "2025-10-01 20:16:06,785 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Drema\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
               "DateTime": "2025-10-01T20:16:06.785",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Drema\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Drema\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
             },
             "Attacker": "Drema",
-            "Victim": "chromehearts\uAC70\uC6B8",
+            "Victim": "chromehearts",
             "WasTraded": false,
             "IsFirstKill": true,
             "Assist1": "",
@@ -1820,7 +1820,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 4,
             "Deaths": 3,
             "Assists": 0,
@@ -1997,12 +1997,12 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:19:53,616 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022LoFi\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
+              "Line": "2025-10-01 20:19:53,616 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022LoFi\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
               "DateTime": "2025-10-01T20:19:53.616",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022LoFi\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022LoFi\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
             },
-            "Attacker": "chromehearts\uAC70\uC6B8",
+            "Attacker": "chromehearts",
             "Victim": "LoFi",
             "WasTraded": false,
             "IsFirstKill": false,
@@ -2013,12 +2013,12 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:20:13,051 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
+              "Line": "2025-10-01 20:20:13,051 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
               "DateTime": "2025-10-01T20:20:13.051",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
             },
-            "Attacker": "chromehearts\uAC70\uC6B8",
+            "Attacker": "chromehearts",
             "Victim": "Lyuna",
             "WasTraded": false,
             "IsFirstKill": false,
@@ -2131,7 +2131,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 5,
             "Deaths": 4,
             "Assists": 0,
@@ -2244,12 +2244,12 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:21:37,803 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022LoFi\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Brimstone\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
+              "Line": "2025-10-01 20:21:37,803 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022LoFi\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Brimstone\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
               "DateTime": "2025-10-01T20:21:37.803",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022LoFi\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Brimstone\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022LoFi\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Brimstone\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
             },
-            "Attacker": "chromehearts\uAC70\uC6B8",
+            "Attacker": "chromehearts",
             "Victim": "LoFi",
             "WasTraded": false,
             "IsFirstKill": false,
@@ -2260,13 +2260,13 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:21:44,794 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Shotguns_Spas12_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
+              "Line": "2025-10-01 20:21:44,794 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Shotguns_Spas12_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
               "DateTime": "2025-10-01T20:21:44.794",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Shotguns_Spas12_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Shotguns_Spas12_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
             },
             "Attacker": "Lyuna",
-            "Victim": "chromehearts\uAC70\uC6B8",
+            "Victim": "chromehearts",
             "WasTraded": false,
             "IsFirstKill": false,
             "Assist1": "",
@@ -2474,7 +2474,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 7,
             "Deaths": 5,
             "Assists": 0,
@@ -2571,12 +2571,12 @@
         "RoundKillLogs": [
           {
             "LogLine": {
-              "Line": "2025-10-01 20:22:54,004 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Brimstone\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
+              "Line": "2025-10-01 20:22:54,004 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Brimstone\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
               "DateTime": "2025-10-01T20:22:54.004",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Brimstone\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Brimstone\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
             },
-            "Attacker": "chromehearts\uAC70\uC6B8",
+            "Attacker": "chromehearts",
             "Victim": "Maxyy",
             "WasTraded": true,
             "IsFirstKill": true,
@@ -2603,12 +2603,12 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:22:55,604 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
+              "Line": "2025-10-01 20:22:55,604 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
               "DateTime": "2025-10-01T20:22:55.604",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
             },
-            "Attacker": "chromehearts\uAC70\uC6B8",
+            "Attacker": "chromehearts",
             "Victim": "Lyuna",
             "WasTraded": true,
             "IsFirstKill": false,
@@ -2619,13 +2619,13 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:22:56,040 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Brimstone\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
+              "Line": "2025-10-01 20:22:56,040 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Brimstone\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
               "DateTime": "2025-10-01T20:22:56.04",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Brimstone\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Brimstone\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
             },
             "Attacker": "intentional JYE",
-            "Victim": "chromehearts\uAC70\uC6B8",
+            "Victim": "chromehearts",
             "WasTraded": false,
             "IsFirstKill": false,
             "Assist1": "TX_Killfeed_Brimstone",
@@ -2817,7 +2817,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 9,
             "Deaths": 5,
             "Assists": 0,
@@ -2946,12 +2946,12 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:24:40,602 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022tx_hud_dmr\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
+              "Line": "2025-10-01 20:24:40,602 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022tx_hud_dmr\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
               "DateTime": "2025-10-01T20:24:40.602",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022tx_hud_dmr\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022tx_hud_dmr\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
             },
-            "Attacker": "chromehearts\uAC70\uC6B8",
+            "Attacker": "chromehearts",
             "Victim": "intentional JYE",
             "WasTraded": false,
             "IsFirstKill": false,
@@ -2978,12 +2978,12 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:24:49,703 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022LoFi\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022tx_hud_dmr\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
+              "Line": "2025-10-01 20:24:49,703 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022LoFi\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022tx_hud_dmr\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
               "DateTime": "2025-10-01T20:24:49.703",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022LoFi\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022tx_hud_dmr\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022LoFi\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022tx_hud_dmr\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
             },
-            "Attacker": "chromehearts\uAC70\uC6B8",
+            "Attacker": "chromehearts",
             "Victim": "LoFi",
             "WasTraded": false,
             "IsFirstKill": false,
@@ -3096,7 +3096,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 9,
             "Deaths": 5,
             "Assists": 0,
@@ -3375,7 +3375,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 10,
             "Deaths": 6,
             "Assists": 1,
@@ -3472,12 +3472,12 @@
         "RoundKillLogs": [
           {
             "LogLine": {
-              "Line": "2025-10-01 20:28:01,894 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022LoFi\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_DoubleSniper\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
+              "Line": "2025-10-01 20:28:01,894 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022LoFi\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_DoubleSniper\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
               "DateTime": "2025-10-01T20:28:01.894",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022LoFi\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_DoubleSniper\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022LoFi\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_DoubleSniper\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
             },
-            "Attacker": "chromehearts\uAC70\uC6B8",
+            "Attacker": "chromehearts",
             "Victim": "LoFi",
             "WasTraded": true,
             "IsFirstKill": true,
@@ -3488,13 +3488,13 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:28:02,532 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Vyse\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
+              "Line": "2025-10-01 20:28:02,532 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Vyse\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
               "DateTime": "2025-10-01T20:28:02.532",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Vyse\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Vyse\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
             },
             "Attacker": "Maxyy",
-            "Victim": "chromehearts\uAC70\uC6B8",
+            "Victim": "chromehearts",
             "WasTraded": false,
             "IsFirstKill": false,
             "Assist1": "TX_Killfeed_Vyse",
@@ -3686,7 +3686,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 11,
             "Deaths": 7,
             "Assists": 1,
@@ -3799,12 +3799,12 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:32:50,301 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022Drema\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Brimstone\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
+              "Line": "2025-10-01 20:32:50,301 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022Drema\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Brimstone\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
               "DateTime": "2025-10-01T20:32:50.301",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022Drema\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Brimstone\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022Drema\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Brimstone\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
             },
-            "Attacker": "chromehearts\uAC70\uC6B8",
+            "Attacker": "chromehearts",
             "Victim": "Drema",
             "WasTraded": false,
             "IsFirstKill": false,
@@ -3815,13 +3815,13 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:33:08,683 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
+              "Line": "2025-10-01 20:33:08,683 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
               "DateTime": "2025-10-01T20:33:08.683",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
             },
             "Attacker": "intentional JYE",
-            "Victim": "chromehearts\uAC70\uC6B8",
+            "Victim": "chromehearts",
             "WasTraded": false,
             "IsFirstKill": false,
             "Assist1": "",
@@ -4029,7 +4029,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 11,
             "Deaths": 8,
             "Assists": 1,
@@ -4126,13 +4126,13 @@
         "RoundKillLogs": [
           {
             "LogLine": {
-              "Line": "2025-10-01 20:34:44,177 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Pistol_Luger_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
+              "Line": "2025-10-01 20:34:44,177 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Pistol_Luger_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
               "DateTime": "2025-10-01T20:34:44.177",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Pistol_Luger_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Pistol_Luger_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
             },
             "Attacker": "Maxyy",
-            "Victim": "chromehearts\uAC70\uC6B8",
+            "Victim": "chromehearts",
             "WasTraded": false,
             "IsFirstKill": true,
             "Assist1": "",
@@ -4340,7 +4340,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 11,
             "Deaths": 8,
             "Assists": 1,
@@ -4533,13 +4533,13 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:37:51,628 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Bomb_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
+              "Line": "2025-10-01 20:37:51,628 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Bomb_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
               "DateTime": "2025-10-01T20:37:51.628",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Bomb_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Bomb_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
             },
-            "Attacker": "chromehearts\uAC70\uC6B8",
-            "Victim": "chromehearts\uAC70\uC6B8",
+            "Attacker": "chromehearts",
+            "Victim": "chromehearts",
             "WasTraded": false,
             "IsFirstKill": false,
             "Assist1": "",
@@ -4667,7 +4667,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 11,
             "Deaths": 9,
             "Assists": 1,
@@ -4828,13 +4828,13 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:40:03,150 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022tx_hud_dmr\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
+              "Line": "2025-10-01 20:40:03,150 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022tx_hud_dmr\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
               "DateTime": "2025-10-01T20:40:03.15",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022tx_hud_dmr\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022tx_hud_dmr\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
             },
             "Attacker": "intentional JYE",
-            "Victim": "chromehearts\uAC70\uC6B8",
+            "Victim": "chromehearts",
             "WasTraded": false,
             "IsFirstKill": false,
             "Assist1": "",
@@ -4978,7 +4978,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 11,
             "Deaths": 10,
             "Assists": 1,
@@ -5155,13 +5155,13 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:44:10,865 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
+              "Line": "2025-10-01 20:44:10,865 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
               "DateTime": "2025-10-01T20:44:10.865",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Maxyy\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
             },
             "Attacker": "Maxyy",
-            "Victim": "chromehearts\uAC70\uC6B8",
+            "Victim": "chromehearts",
             "WasTraded": false,
             "IsFirstKill": false,
             "Assist1": "",
@@ -5273,7 +5273,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 11,
             "Deaths": 10,
             "Assists": 1,
@@ -5552,7 +5552,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 11,
             "Deaths": 11,
             "Assists": 1,
@@ -5697,13 +5697,13 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:46:19,752 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
+              "Line": "2025-10-01 20:46:19,752 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
               "DateTime": "2025-10-01T20:46:19.752",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
             },
             "Attacker": "intentional JYE",
-            "Victim": "chromehearts\uAC70\uC6B8",
+            "Victim": "chromehearts",
             "WasTraded": false,
             "IsFirstKill": false,
             "Assist1": "",
@@ -5879,7 +5879,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 11,
             "Deaths": 11,
             "Assists": 1,
@@ -6174,7 +6174,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 13,
             "Deaths": 11,
             "Assists": 1,
@@ -6271,12 +6271,12 @@
         "RoundKillLogs": [
           {
             "LogLine": {
-              "Line": "2025-10-01 20:51:01,915 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
+              "Line": "2025-10-01 20:51:01,915 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
               "DateTime": "2025-10-01T20:51:01.915",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
             },
-            "Attacker": "chromehearts\uAC70\uC6B8",
+            "Attacker": "chromehearts",
             "Victim": "Lyuna",
             "WasTraded": false,
             "IsFirstKill": true,
@@ -6351,12 +6351,12 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:51:38,900 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
+              "Line": "2025-10-01 20:51:38,900 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
               "DateTime": "2025-10-01T20:51:38.9",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
             },
-            "Attacker": "chromehearts\uAC70\uC6B8",
+            "Attacker": "chromehearts",
             "Victim": "intentional JYE",
             "WasTraded": false,
             "IsFirstKill": false,
@@ -6469,7 +6469,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 14,
             "Deaths": 11,
             "Assists": 2,
@@ -6598,12 +6598,12 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:53:55,167 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Raze\\\u0022,\\\u0022assist2\\\u0022:\\\u0022TX_Killfeed_KAYO\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
+              "Line": "2025-10-01 20:53:55,167 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Raze\\\u0022,\\\u0022assist2\\\u0022:\\\u0022TX_Killfeed_KAYO\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}",
               "DateTime": "2025-10-01T20:53:55.167",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022victim\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Raze\\\u0022,\\\u0022assist2\\\u0022:\\\u0022TX_Killfeed_KAYO\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022victim\\\u0022:\\\u0022Lyuna\\\u0022,\\\u0022is_attacker_teammate\\\u0022:false,\\\u0022is_victim_teammate\\\u0022:true,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022TX_Killfeed_Raze\\\u0022,\\\u0022assist2\\\u0022:\\\u0022TX_Killfeed_KAYO\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:false}\u0022}"
             },
-            "Attacker": "chromehearts\uAC70\uC6B8",
+            "Attacker": "chromehearts",
             "Victim": "Lyuna",
             "WasTraded": false,
             "IsFirstKill": false,
@@ -6780,7 +6780,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 14,
             "Deaths": 11,
             "Assists": 3,
@@ -7059,7 +7059,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 14,
             "Deaths": 12,
             "Assists": 3,
@@ -7204,13 +7204,13 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:57:08,666 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Drema\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
+              "Line": "2025-10-01 20:57:08,666 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Drema\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
               "DateTime": "2025-10-01T20:57:08.666",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Drema\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022Drema\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Volcano\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
             },
             "Attacker": "Drema",
-            "Victim": "chromehearts\uAC70\uC6B8",
+            "Victim": "chromehearts",
             "WasTraded": false,
             "IsFirstKill": false,
             "Assist1": "",
@@ -7370,7 +7370,7 @@
           },
           {
             "Key": "scoreboard_5",
-            "Name": "chromehearts\uAC70\uC6B8",
+            "Name": "chromehearts",
             "Kills": 14,
             "Deaths": 13,
             "Assists": 3,
@@ -7515,13 +7515,13 @@
           },
           {
             "LogLine": {
-              "Line": "2025-10-01 20:59:21,697 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
+              "Line": "2025-10-01 20:59:21,697 (INFO) \u003C/libs/bundle.min.js\u003E (:1) - [InfoDBContainer] UPDATING INFO (decoded): {\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}",
               "DateTime": "2025-10-01T20:59:21.697",
               "Type": "[InfoDBContainer]",
-              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\uAC70\uC6B8\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
+              "GameLog": "{\u0022feature\u0022:\u0022match_info\u0022,\u0022category\u0022:\u0022match_info\u0022,\u0022key\u0022:\u0022kill_feed\u0022,\u0022value\u0022:\u0022{\\\u0022attacker\\\u0022:\\\u0022intentional JYE\\\u0022,\\\u0022victim\\\u0022:\\\u0022chromehearts\\\u0022,\\\u0022is_attacker_teammate\\\u0022:true,\\\u0022is_victim_teammate\\\u0022:false,\\\u0022weapon\\\u0022:\\\u0022TX_Hud_Assault_AR10A2_S\\\u0022,\\\u0022ult\\\u0022:\\\u0022\\\u0022,\\\u0022assist1\\\u0022:\\\u0022\\\u0022,\\\u0022assist2\\\u0022:\\\u0022\\\u0022,\\\u0022assist3\\\u0022:\\\u0022\\\u0022,\\\u0022assist4\\\u0022:\\\u0022\\\u0022,\\\u0022headshot\\\u0022:true}\u0022}"
             },
             "Attacker": "intentional JYE",
-            "Victim": "chromehearts\uAC70\uC6B8",
+            "Victim": "chromehearts",
             "WasTraded": false,
             "IsFirstKill": false,
             "Assist1": "",
